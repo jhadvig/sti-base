@@ -1,6 +1,6 @@
 #!/bin/bash -e
 # $1 - Specifies distribution - RHEL7/CentOS7
-
+# tert
 OS=$1
 
 IMAGE_NAME=openshift/base-${OS}
